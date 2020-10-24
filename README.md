@@ -1,2 +1,4 @@
-# Mini-GleyLancer
-Minimalistic version of Sega Genesis' GleyLancer
+# Preview
+
+![alt text](media/gleylancer1.gif)
+![alt text](media/gleylancer2.gif)
