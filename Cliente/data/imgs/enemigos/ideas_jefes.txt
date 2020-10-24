@@ -1,0 +1,5 @@
+Jefe1: Se alinea con los jugadores y dispara proyectiles de las manos y el centro de la nave (siempre en horizontal)
+
+Jefe2: Son 2 naves mas pequeñas, que cargan hacia los personajes SIEMPRE en forma totalmente horizontal o totalmente vertical (NUNCA en diagonal). Tienen 500 de vida cada uno
+
+Jefe3: Esta casi estatico a la derecha de la ventana, se le activa cada tanto un campo de fuerza que lo hace inmune y tira muchos proyectiles. (Ver bullet hell de referencia).

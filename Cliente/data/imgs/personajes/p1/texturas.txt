@@ -1,0 +1,6 @@
+La nave al moverse va intercalando
+las texturas
+l -> ll -> lll -> ll -> l -> (repetir ciclo)
+
+Cuando empieza a disparar
+disp1 -> disp2 -> l (inicia ciclo movimiento)

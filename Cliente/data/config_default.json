@@ -1,0 +1,46 @@
+{
+  "configuration": {
+      "log": {
+        "level": "debug"
+      },
+      
+      "game": {
+        "enemies": [
+          {
+            "type": "tipo_enemigo_1"
+          },
+          {
+            "type": "tipo_enemigo_2"
+          }
+        ],
+        
+      "stages": [
+            {
+                "fondo1":"../data/imgs/fondos/fondo_1_1.png",
+                "fondo2":"../data/imgs/fondos/fondo_1_2.png",
+                "fondo3":"../data/imgs/fondos/fondo_1_3.png",
+                "fondo4":"../data/imgs/fondos/fondo_1_4.png",
+                "fondo5":"../data/imgs/fondos/fondo_1_5.png",
+                "fondo6":"../data/imgs/fondos/fondo_1_6.png"
+            },
+
+            {
+                "fondo1":"../data/imgs/fondos/fondo_2_1.png",
+                "fondo2":"../data/imgs/fondos/fondo_2_2.png",
+                "fondo3":"../data/imgs/fondos/fondo_2_3.png",
+                "fondo4":"../data/imgs/fondos/fondo_2_4.png",
+                "fondo5":"../data/imgs/fondos/fondo_2_5.png",
+                "fondo6":"../data/imgs/fondos/fondo_2_6.png"
+            },
+            {
+                "fondo1":"../data/imgs/fondos/fondo_3_1.png",
+                "fondo2":"../data/imgs/fondos/fondo_3_2.png",
+                "fondo3":"../data/imgs/fondos/fondo_3_3.png",
+                "fondo4":"../data/imgs/fondos/fondo_3_4.png",
+                "fondo5":"../data/imgs/fondos/fondo_3_5.png",
+                "fondo6":"../data/imgs/fondos/fondo_3_6.png"
+            }
+      ]
+    }
+  }
+}

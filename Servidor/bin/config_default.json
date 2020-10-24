@@ -1,0 +1,31 @@
+{
+  "configuration": {
+    "log": {
+      "level": "debug"
+    },
+    "game": {
+      "enemies": [
+        {
+          "type": "tipo_enemigo_1",
+          "quantity_1": "27",
+          "quantity_2": "28"
+        },
+        {
+          "type": "tipo_enemigo_2",
+          "quantity_1": "29",
+          "quantity_2": "30"
+        }
+      ]
+      "users": [
+        {
+          "username": "root",
+          "password": "root"
+        },
+        {
+          "username": "root2",
+          "password": "root2"
+        }
+      ]
+    }
+  }
+}

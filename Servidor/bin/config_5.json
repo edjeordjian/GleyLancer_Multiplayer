@@ -1,0 +1,42 @@
+{
+  "configuration": {
+    "log": {
+      "level": "debug"
+    },
+    "game": {
+      "enemies": [
+        {
+          "type": "tipo_enemigo_1",
+          "quantity_1": "10",
+          "quantity_2": "15"
+        },
+        {
+          "type": "tipo_enemigo_2",
+          "quantity_1": "3",
+          "quantity_2": "4"
+        }
+      ],
+      "users": [
+        {
+          "username": "root",
+          "password": "root"
+        },{
+          "username": "root2",
+          "password": "root2"
+        },
+        {
+          "username": "root3",
+          "password": "root3"
+        },
+        {
+          "username": "root4",
+          "password": "root4"
+        },
+        {
+          "username": "root5",
+          "password": "root5"
+        }
+      ]
+    }
+  }
+}
