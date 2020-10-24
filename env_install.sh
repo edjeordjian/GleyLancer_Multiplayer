@@ -1,5 +1,5 @@
 ##### ENVIRONMENT #####
-# SISTEM: UBUNTU 18
+# SYSTEM: UBUNTU 18
 # C++: 11
 # GCC: 7.5
 # Make: 4.1
